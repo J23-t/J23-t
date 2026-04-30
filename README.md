@@ -1,45 +1,44 @@
-# 🚀 Jordan Talledo
+<div align="center">
 
-<p align="center">
-⚡ Full Stack • Web • Mobile • IA  
-</p>
+# ⚡ Jordan Talledo
 
----
+### 💻 Desarrollador Full Stack | 🤖 IA | 📱 Mobile
 
-## 🧠
+✨ Construyendo sistemas modernos, escalables y soluciones reales
 
-💻 Sistemas de información
-📱 Apps Flutter
-🤖 IA
-🏗️ Arquitectura web
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,vue,nodejs,ts,python,mongodb,firebase,mysql,flutter,androidstudio,git,github,linux" />
 
-## ⚡ Tech
+<br><br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,vue,nodejs,ts,python,mongodb,firebase,mysql,flutter,androidstudio,git,github,linux" />
-</p>
+🧠 **Sistemas de Información**
+📱 **Apps Mobile**
+🤖 **Integración IA**
+🏗️ **Arquitectura Web**
 
----
+<br>
 
-## 🚀
+🚀 **Web Full Stack** • 🛒 **E-commerce** • 🎨 **UI/UX** • ⚡ **SEO**
 
-💻 Web • 🛒 E-commerce • 🎨 UI/UX • ⚡ SEO • 🛠️ Soporte
+<br>
 
----
-
-## 🧾
-
+🏆 **Certificaciones**
 🧠 IA • 🛡️ Ciberseguridad • 💻 Frontend • ⚙️ Backend
 
----
+<br>
 
-## 🌐
+🌐 **Portafolio**
+jordantalledo.vercel.app
 
-🔗 https://jordantalledo.vercel.app/
-📧 [programadortalledo@gmail.com](mailto:programadortalledo@gmail.com)
-💻 github.com/J23-t
+📧 **Contacto**
+[programadortalledo@gmail.com](mailto:programadortalledo@gmail.com)
 
----
+💻 **GitHub**
+github.com/J23-t
 
+<br>
+
+⚡ *Building real systems*
+
+</div>
