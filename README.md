@@ -1,65 +1,88 @@
-# 🚀 Hola, soy Jordan Talledo
+# 🚀 Jordan Talledo
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Sistemas+de+Información;Web+%2B+Mobile+Developer;Siempre+aprendiendo+nuevas+tecnologías" />
+<p align="center">
+  Building scalable systems, high-performance applications, and real business solutions.
+</p>
 
----
-
-## 💻 Sobre mí
-
-🎯 Desarrollador Web Junior enfocado en **sistemas de información escalables**
-⚡ Apasionado por el **Full Stack + Arquitectura Web**
-🤖 Integrando **IA para optimización de sistemas**
-📱 Desarrollo **apps móviles y web modernas**
+<p align="center">
+  Full Stack Developer • Web • Mobile • AI Integration
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Sobre mí
 
-### 🌐 Frontend
+Desarrollador enfocado en la creación de **sistemas de información modernos**, optimizados para rendimiento, escalabilidad y experiencia de usuario.
 
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js)
+Trabajo con empresas y proyectos reales, desarrollando soluciones completas desde la arquitectura hasta producción.
 
-### ⚙️ Backend & DB
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+## ⚡ Tech Stack
 
-### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,typescript,python,mongodb,firebase,mysql,flutter,androidstudio,git,github,linux" />
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android)
+---
 
-### 🧠 Otros
+## 🚀 Servicios
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-🤖 IA aplicada a sistemas
-🏗️ Arquitectura Web
+* 💻 Desarrollo Web Full Stack
+  Aplicaciones completas con Next.js, React y Node.js
+
+* 🗄️ Backend & Bases de Datos
+  Firebase, SQL Server y arquitecturas escalables
+
+* 🛒 E-commerce
+  Tiendas online con pagos, inventario y optimización
+
+* 🎨 UI/UX
+  Interfaces modernas, responsive y mobile-first
+
+* ⚡ Optimización & SEO
+  Mejora de rendimiento y posicionamiento
+
+* 🛠️ Mantenimiento & Soporte
+  Actualización, mejoras y soporte continuo
+
+---
+
+## 🧾 Certificaciones
+
+* 🧠 Desarrollo de Inteligencia Artificial
+* 🛡️ Ciberseguridad
+* 💻 Frontend Development
+* ⚙️ Backend Development
 
 ---
 
 ## 📊 Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=J23-t&show_icons=true&theme=tokyonight" />  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J23-t&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=J23-t&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J23-t&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🌐 Portafolio
 
-🔹 Sistemas web para gestión empresarial
-🔹 Aplicaciones móviles con Flutter
-🔹 Plataformas con integración de IA
+🔗 https://jordantalledo.vercel.app/
 
 ---
 
 ## 📫 Contacto
 
-🌐 GitHub: https://github.com/J23-t
+* 📧 Email: programadortalledo@gmail.com
+* 💻 GitHub: https://github.com/J23-t
 
 ---
 
-🔥 *“Construyendo soluciones reales, no solo código”*
+<p align="center">
+  ⚡ Building real systems, not just code ⚡
+</p>
+
